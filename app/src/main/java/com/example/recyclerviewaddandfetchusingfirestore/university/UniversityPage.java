@@ -19,6 +19,7 @@ import java.util.List;
 
 public class UniversityPage extends AppCompatActivity {
 
+    //University Page, all are running smoothly
     RecyclerView rvUniversity;
     List<University> universityList = new ArrayList<>();
     List<University> universityList1 = new ArrayList<>();
