@@ -19,6 +19,7 @@ import java.util.List;
 
 public class EmployeePage extends AppCompatActivity {
 
+    //Employee Page, all are running smoothly
     RecyclerView rvEmployees;
     List<Employee> employeeList = new ArrayList<>();
     EmployeesAdapter employeesAdapter;
