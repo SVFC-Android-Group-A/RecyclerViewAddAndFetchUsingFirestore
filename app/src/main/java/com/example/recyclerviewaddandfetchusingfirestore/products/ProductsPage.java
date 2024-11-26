@@ -19,7 +19,7 @@ import java.util.List;
 
 public class ProductsPage extends AppCompatActivity {
 
-    // Declare UI elements
+    //Products Page, all are running smoothly
     EditText etName, etPrice, etCategory;
     Button btnAddItem, btnGetItem;
 
