@@ -15,6 +15,8 @@ import java.util.List;
 
 public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ProductViewHolder> {
 
+    // Product Adapter
+
     private final List<Product> productList;
 
     public ProductAdapter(List<Product> productList) {
