@@ -15,6 +15,7 @@ import java.util.List;
 
 public class RestaurantAdapter extends RecyclerView.Adapter<RestaurantAdapter.RestaurantViewHolder> {
 
+    // Restaurant page adapter
     private List<Restaurant> restaurantList; // List of Restaurant (singular)
 
     public RestaurantAdapter(List<Restaurant> restaurantList) { // Correct constructor parameter
