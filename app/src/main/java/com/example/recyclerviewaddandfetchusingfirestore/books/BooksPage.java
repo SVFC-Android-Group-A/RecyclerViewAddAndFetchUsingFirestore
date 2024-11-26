@@ -19,7 +19,7 @@ import java.util.List;
 
 public class BooksPage extends AppCompatActivity {
 
-    // Views and Firestore reference
+    //Books Page, all are running smoothly
     RecyclerView rvBook;
     List<Books> bookList = new ArrayList<>();
     BooksAdapter booksAdapter;
