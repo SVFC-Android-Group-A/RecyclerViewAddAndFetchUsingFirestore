@@ -19,6 +19,7 @@ import java.util.List;
 
 public class RestaurantPage extends AppCompatActivity {
 
+    //Restaurant Page, all are running smoothly
     RecyclerView rvRestaurant;
     List<Restaurant> restaurantList = new ArrayList<>();
     List<Restaurant> restaurantList1 = new ArrayList<>();
