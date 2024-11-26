@@ -9,7 +9,7 @@
     app:cardCornerRadius="10dp"
     android:layout_height="wrap_content">
 
-    <!-- Fixed the error -->
+    <!-- Uploaded the file, all are running smoothly -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
