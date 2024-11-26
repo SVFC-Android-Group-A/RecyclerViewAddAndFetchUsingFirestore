@@ -15,7 +15,7 @@ import java.util.List;
 
 public class BooksAdapter extends RecyclerView.Adapter<BooksAdapter.BookViewHolder> {
 
-    // This is the adapter for the books page
+    // Books page adapter
     List<Books> bookList; // Use correct data model name
 
     public BooksAdapter(List<Books> bookList) {
