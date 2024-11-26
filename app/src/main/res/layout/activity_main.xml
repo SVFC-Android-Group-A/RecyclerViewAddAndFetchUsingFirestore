@@ -8,7 +8,7 @@
     android:padding="16dp"
     tools:context=".MainActivity">
 
-    <!-- Fixed the error -->
+    <!-- Uploaded the file, all are running smoothly -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
