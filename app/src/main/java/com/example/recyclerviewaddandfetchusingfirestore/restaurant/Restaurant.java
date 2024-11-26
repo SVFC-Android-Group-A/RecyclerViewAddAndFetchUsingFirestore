@@ -5,6 +5,7 @@ public class Restaurant {  // Renamed from 'Restaurants' to 'Restaurant'
     private String type;
     private String location;
 
+    //Getter and Setter Model for Restaurant
     public Restaurant(String name, String type, String location) {  // Constructor accepts name, type, and location
         this.name = name;
         this.type = type;
