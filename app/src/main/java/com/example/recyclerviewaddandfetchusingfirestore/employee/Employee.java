@@ -5,7 +5,7 @@ public class Employee {
     private String department;
     private String email;
 
-    // Constructor for adding employees
+    //Getter and Setter Model for Employee
     public Employee(String name, String department, String email) {
         this.name = name;
         this.department = department;
