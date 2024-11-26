@@ -5,7 +5,7 @@ public class University {
     private String type;
     private String website;
 
-    // Fixed the errors
+    //Getter and Setter Model for University
     public University(String name, String type, String website) {
         this.name = name;
         this.type = type;
