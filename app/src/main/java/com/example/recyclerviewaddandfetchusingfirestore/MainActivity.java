@@ -15,7 +15,7 @@ import com.example.recyclerviewaddandfetchusingfirestore.university.UniversityPa
 
 public class MainActivity extends AppCompatActivity {
 
-    // Fixed the errors
+    //Main Activity Page
     Button btnBooksPage, btnEmployeePage, btnProductsPage, btnRestaurantPage, btnUniversityPage;
 
     @Override
