@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439489004858",
+    "project_id": "grouparecyclerviewaddandfetch",
+    "storage_bucket": "grouparecyclerviewaddandfetch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439489004858:android:ff337b58eae0caf836bc03",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewaddandfetchusingfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9Cvk6yrXej_3vKMVAy5kA7OO2Tdk-NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

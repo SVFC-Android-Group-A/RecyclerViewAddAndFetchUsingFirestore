@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".restaurant.RestaurantPage">
+
+    <!-- Fixed the error -->
+    <EditText
+        android:layout_marginTop="50dp"
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Restaurant Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/et_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Type"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/et_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Location"
+        android:inputType="text" />
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:id="@+id/btn_add_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Add Restaurant" />
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:id="@+id/btn_get_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Get Restaurant" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_restaurant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
