@@ -8,7 +8,7 @@
     android:padding="16dp"
     tools:context=".products.productspage">
 
-    <!-- Fixed the error -->
+    <!-- Uploaded the file, all are running smoothly -->
     <EditText
         android:layout_marginTop="50dp"
         android:id="@+id/et_name"
