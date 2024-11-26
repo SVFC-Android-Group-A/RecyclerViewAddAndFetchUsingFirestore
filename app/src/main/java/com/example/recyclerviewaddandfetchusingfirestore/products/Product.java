@@ -5,7 +5,7 @@ public class Product {
     private String name;
     private String category;
 
-    // Default constructor required for Firestore
+    //Getter and Setter Model for Product
     public Product() {}
 
     // Parameterized constructor
