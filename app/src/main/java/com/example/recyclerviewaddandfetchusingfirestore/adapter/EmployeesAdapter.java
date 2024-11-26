@@ -15,7 +15,7 @@ import java.util.List;
 
 public class EmployeesAdapter extends RecyclerView.Adapter<EmployeesAdapter.EmployeeViewHolder> {
 
-    // This is the adapter for the employees page
+    // Employees page adapter
     List<Employee> employeeList;
 
     public EmployeesAdapter(List<Employee> employeeList) {
