@@ -15,7 +15,7 @@ public class Books {
 
     public Books() {}
 
-    //Getter and Setter, but improved
+    //Getter and Setter Model for Books
     public String getTitle() {
         return title;
     }
